@@ -4,7 +4,7 @@
 The objective is to build a machine learning model to predict the conversion rate of digital retailers listings (e.g., eBay). We are provided with two datasets, one for training the model and one for prediction. The features are comprised of a mix of continuous and categorical features. For each row in the test data, we need to provide a real value, specifying the conversion probability of an item.
 
 ## Imbalanced Data
-eBay dataset is largely imbalanced. There are different approaches to address the sample imbalance problem: 
+The eBay dataset is largely imbalanced. There are different approaches to address the sample imbalance problem: 
 1. Balancing the training set through oversampling the minority class, under- sampling the majority class, or synthesizing new data for minority class. 
 2. At the algorithm level through adjusting the class weight (i.e., misclassification cost), adjusting the decision threshold, or making the algorithm more sensitive to minority class.
 
