@@ -1,7 +1,7 @@
-# Conversion Rate Prediction for Digital Marketing
+# Conversion Rate Prediction for Digital Retailers
 
 ## Project Objective
-The objective is to build a machine learning model to predict the conversion rate of digital market listings (e.g., eBay). We are provided with two datasets, one for training the model and one for prediction. The features are comprised of a mix of continuous and categorical features. For each row in the test data, we need to provide a real value, specifying the conversion probability of an item.
+The objective is to build a machine learning model to predict the conversion rate of digital retailers listings (e.g., eBay). We are provided with two datasets, one for training the model and one for prediction. The features are comprised of a mix of continuous and categorical features. For each row in the test data, we need to provide a real value, specifying the conversion probability of an item.
 
 ## Imbalanced Data
 eBay dataset is largely imbalanced. There are different approaches to address the sample imbalance problem: 
